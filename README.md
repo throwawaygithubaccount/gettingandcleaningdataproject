@@ -1,6 +1,7 @@
 # Getting and Cleaning Data - Course Project
+#### In-depth code explanation.
 
-### The code file itself is pretty well documented, but this file will go into greater depth. Note that I assume you have kept the original file structure and that this folder is located in your working directory. 
+The code file itself is pretty well documented, but this file will go into greater depth. Note that I assume you have kept the original file structure and that this folder is located in your working directory. 
 
 Lines 18-21 of the run_analysis.R file simply checks to see if the user has installed the required package `dplyr` and loads it if installed, otherwise installs it and then loads it.
 
